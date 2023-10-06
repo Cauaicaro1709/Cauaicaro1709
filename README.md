@@ -17,11 +17,11 @@
 <h2>Estudante do Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)</h2>
 
 ### Redes sociais:
-<a  
-https://www.instagram.com/accounts/onetap/?next=%2F" target="_blank"><img width="27px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg">  
-<a href "cauaicaro1709@gmail.com"><img src="https://icongr.am/devicon/google-original.svg?size=27&color=currentColor">
+<div align="center"> 
+<a href="https://instagram.com/_caua.x" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:cauaicaro1709@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="$Coloque_o_link_aqui$" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
-
 
 
 
