@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CD&size=30&center=true&vCenter=true&width=1000&lines=Oii!,+meu+nome+e+Cauã+icaro;bem+vindo!+:%26)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CD&size=30&center=true&vCenter=true&width=1000&lines=Oii!,+meu+nome+é+Cauã+Icaro;bem+vindo!)](https://git.io/typing-svg)
 <br>
 
 
