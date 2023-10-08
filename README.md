@@ -6,9 +6,9 @@
 
 
 
-<div alinhar =" centro ">  
-  <img largura ="49%" altura ="195px" src="https://github-readme-stats.vercel.app/api?username=Cauaicaro1709&show_icons=true&count_private=true&hide_border=true&title_color=0000CD&icon_color=DD75DF&text_color=c9d1d9&bg_color=0d111 7" alt="Cauã Ícaro github stats" /> 
-  <img largura ="41%" altura ="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cauaicaro1709&layout=compact&hide_border=true&title_color=DD75DF&text_color=FFFFFF&bg_color=0d1117" />
+<div align="center">  
+  <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cauaicaro1709&theme=tokyonight" />
+  <img width=40% align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cauaicaro1709&theme=tokyonight" />
 </div>
 
 
