@@ -51,4 +51,4 @@
 <p align="center"><img width="19%" align="center" src="https://profile-counter.glitch.me/{maria eduarda}/count.svg" /></p> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DD75DF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer"/>
